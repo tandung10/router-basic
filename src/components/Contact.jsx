@@ -7,7 +7,7 @@ const Contact = () => {
   };
   return (
     <>
-      <h1>Contact US</h1>
+      <h1 className="contact-me">Contact US</h1>
       <form action="" className="form-contact">
         <label htmlFor="name">Name:</label>
         <input type="text" id="name" name="name" />
