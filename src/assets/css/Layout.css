@@ -19,6 +19,9 @@
   color: white;
   font-size: 2rem;
 }
+.navbar a.active {
+  color: #f1c40f;
+}
 .navbar ul li a:hover {
   color: #f1c40f;
 }
